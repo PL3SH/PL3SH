@@ -30,12 +30,12 @@ Here are some of the languages and technologies I work with:
 
 Here are some of my highlighted projects:
 
-* **Weather Dashboard (Ruby on Rails):** A weather dashboard application built with Ruby on Rails, integrating with the OpenWeather API to display weather information.
-* **Data Structures Final Project (Java):** A Java project focused on converting data from a `.txt` file into different data structures, demonstrating knowledge of data organization and manipulation:[DataStructures](https://github.com/PL3SH/ProyectoFinalEstructuraDeDatos).
-* **Vendelo (Rails project):** A Ruby on Rails project designed as a practice application for the foundational concepts of the Ruby on Rails framework, mimicking features of a platform like Wallapop.
-* **Crypto Alert Tool (Python):** A Python-based tool designed to send alerts via WhatsApp or email regarding movements in Bitcoin (BTC), providing notifications for potential buy or sell orders.
-* **Bank Collaboration (Django):** A project developed using the Django framework for the administration of a bank, showcasing backend development skills.
-* **To-Do Front-End (JavaScript/React):** A to-do list application with a front-end built in React (JavaScript) and a back-end developed in Rails as an API.
+* **Weather Dashboard (Ruby on Rails):** A weather dashboard application built with Ruby on Rails, integrating with the OpenWeather API to display weather information: [WeatherDashbopard](https://github.com/PL3SH/weather_dashboard).
+* **Data Structures Final Project (Java):** A Java project focused on converting data from a `.txt` file into different data structures, demonstrating knowledge of data organization and manipulation: [DataStructures](https://github.com/PL3SH/ProyectoFinalEstructuraDeDatos).
+* **Vendelo (Rails project):** A Ruby on Rails project designed as a practice application for the foundational concepts of the Ruby on Rails framework, mimicking features of a platform like Wallapop: [Vendelo](https://github.com/PL3SH/Vendelo).
+* **Crypto Alert Tool (Python):** A Python-based tool designed to send alerts via WhatsApp or email regarding movements in Bitcoin (BTC), providing notifications for potential buy or sell orders: [CryptoAlertTool](https://github.com/PL3SH/crypto_alert_tool).
+* **Bank Collaboration (Django):** A project developed using the Django framework for the administration of a bank, showcasing backend development skills: [Bank](https://github.com/PL3SH/Bank_collab).
+* **To-Do Front-End (JavaScript/React):** A to-do list application with a front-end built in React (JavaScript) and a back-end developed in Rails as an API: [ToDoList](https://github.com/PL3SH/To_do_front_end)
 
 You can find more of my work in my [repositories](https://github.com/PL3SH?tab=repositories).
 
