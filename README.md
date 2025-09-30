@@ -41,10 +41,10 @@ You can find more of my work in my [repositories](https://github.com/PL3SH?tab=r
 
 ## Connect with Me
 
--   **LinkedIn:** [miguelbrinez](https://www.linkedin.com/in/miguelbrinez/) (You can add a brief summary of your professional experience here from your LinkedIn profile)
+-   **LinkedIn:** [miguelbrinez](https://www.linkedin.com/in/miguelbrinez/)
 
 ## My Curriculum Vitae
- -   **Curriculum Vitae:** [Download my Currículum Vitae](https://drive.google.com/file/d/1NP6Fo3IcLi0L-GWU4FXRY5OvEIfCDjHS/view?usp=sharing)
+ -   **Curriculum Vitae:** [Download my Currículum Vitae](https://drive.google.com/file/d/1hMaEaxnawNKwcbkIAEMGq8UkfdAVHGyY/view?usp=sharing)
 
 
 ## Get in Touch
