@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Miguel (PL3SH)
+# Hi there 👋 I'm Miguel
 
 I'm a passionate Systems Engineering student dedicated to building innovative solutions and exploring new technologies. Welcome to my GitHub profile where I share my projects and contributions!
 
