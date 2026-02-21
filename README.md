@@ -36,6 +36,7 @@ Here are some of my highlighted projects:
 * **Crypto Alert Tool (Python):** A Python-based tool designed to send alerts via WhatsApp or email regarding movements in Bitcoin (BTC), providing notifications for potential buy or sell orders: [CryptoAlertTool](https://github.com/PL3SH/crypto_alert_tool).
 * **Bank Collaboration (Django):** A project developed using the Django framework for the administration of a bank, showcasing backend development skills: [Bank](https://github.com/PL3SH/Bank_collab).
 * **To-Do Front-End (JavaScript/React):** A to-do list application with a front-end built in React (JavaScript) and a back-end developed in Rails as an API: [ToDoList](https://github.com/PL3SH/To_do_front_end)
+* * **Leads Finder (FastApi/React):** Automates the discovery and filtering of websites by searching for specific keywords and scoring their relevance to identify high-potential leads or targets.: [LeadsFinder](https://github.com/PL3SH/leads_finder_react))
 
 You can find more of my work in my [repositories](https://github.com/PL3SH?tab=repositories).
 
